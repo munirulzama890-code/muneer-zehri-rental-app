@@ -1,27 +1,15 @@
 {
   "id": "./",
-  "name": "Muneer Zehri Real Estate and Rental SERVICE",
+  "name": "Muneer Zehri Real Estate and Rental Service",
   "short_name": "Muneer Rental",
-  "description": "Offline rental and tenant record management",
-  "lang": "ur",
-  "dir": "rtl",
+  "description": "Offline rental management app",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f2f6fa",
   "theme_color": "#123b5d",
   "icons": [
-    {
-      "src": "./icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "./icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    }
+    {"src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
   ]
 }
